@@ -1,16 +1,23 @@
-## Hi there 👋
+### hey, I'm Ayoub
 
-<!--
-**cmtrl/cmtrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building tools, scripts, and operating systems, computer systems and networks, and cybersecurity.
 
-Here are some ideas to get you started:
+#### Focus & Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, C++, Bash
+
+- **Environments:** Linux Git Docker
+
+- **Interests:** network protocols, automation tooling algorithms security engineering.
+
+#### What I'm Doing
+
+- Create inexpensive CLI applications and validation scanners.
+
+- At the level of data structures & algorithmic problem-set.
+
+- Preparing to study computer science basics in the university.
+
+#### Connect
+
+- **Mail:** alshmryaywb166@gmail.com
