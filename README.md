@@ -1,4 +1,4 @@
-### hey, I'm Ayoub
+### hey, I'm Cmtrl
 
 Building tools, scripts, and operating systems, computer systems and networks, and cybersecurity.
 
@@ -20,4 +20,5 @@ Building tools, scripts, and operating systems, computer systems and networks, a
 
 #### Connect
 
-- **Mail:** alshmryaywb166@gmail.com
+- **Mail:** xoney90@gmail.com
+- **X/Twitter:** x.com/@cmtrlania
