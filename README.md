@@ -22,3 +22,4 @@ Building tools, scripts, and operating systems, computer systems and networks, a
 
 - **Mail:** xoney90@gmail.com
 - **X/Twitter:** @cmtrlania
+- **Discord:** @dmp7
